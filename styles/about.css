@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.aboutmain {
+    padding: 86px 689px 300px 207px;
+}
+
+.aboutmain h1 {
+    color: #42446E;
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: -0.4px;
+    margin-top: 38px;
+}
+
+.aboutmain p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #666666;
+    margin-top: 38px;
+}
+
+.work {
+    width: 696px;
+    margin-top: 38px;
+}
+
+.work h2 {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #666666;
+}
+
+.work1 span h2 {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #666666;
+    float: left;
+    display: inline-flex;
+}
+
+.work1 button {
+    width: 84px;
+    height: 24px;
+    background-color: #D7FFE0;
+    color: #018C0F;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 9px;
+    text-align: center;
+    border: 0;
+    border-radius: 50px;
+    float: right;
+}
+
+.work1 span {
+    display: inline-flex;
+}
+
+.work1 span h6 {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #A7A7A7;
+}
+
+.work1 span h5 {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #A7A7A7;
+}
+
+.work1 h4 {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #A7A7A7;
+    float: right;
+}
+
+.work1span{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.work1span i{
+    margin: 0px 5px;
+}
+
+hr{
+    border: 1px solid;
+}
